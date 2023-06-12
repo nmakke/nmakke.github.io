@@ -1,3 +1,0 @@
-# nmakke.github.io
-
-test
