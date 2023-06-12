@@ -1,3 +1,1 @@
-# nmakke.github.io
-
-test
+Symbolic regression for scentific discovery
