@@ -1,0 +1,4 @@
+jobs:
+
+    - name: Deploy mkdocs
+      run: mkdocs gh-deploy --force
